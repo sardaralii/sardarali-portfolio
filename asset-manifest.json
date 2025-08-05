@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sardarlali-portfolio/static/css/main.ebf220a9.css",
-    "main.js": "/sardarlali-portfolio/static/js/main.7a30cf93.js",
-    "static/js/453.c2e8e339.chunk.js": "/sardarlali-portfolio/static/js/453.c2e8e339.chunk.js",
-    "static/media/profile-photo.jpg": "/sardarlali-portfolio/static/media/profile-photo.f7337d45a435458745b4.jpg",
-    "index.html": "/sardarlali-portfolio/index.html",
-    "main.ebf220a9.css.map": "/sardarlali-portfolio/static/css/main.ebf220a9.css.map",
-    "main.7a30cf93.js.map": "/sardarlali-portfolio/static/js/main.7a30cf93.js.map",
-    "453.c2e8e339.chunk.js.map": "/sardarlali-portfolio/static/js/453.c2e8e339.chunk.js.map"
+    "main.css": "/sardarali-portfolio/static/css/main.07c396e8.css",
+    "main.js": "/sardarali-portfolio/static/js/main.faa97477.js",
+    "static/js/453.d25e12da.chunk.js": "/sardarali-portfolio/static/js/453.d25e12da.chunk.js",
+    "static/media/profile-photo.jpg": "/sardarali-portfolio/static/media/profile-photo.f7337d45a435458745b4.jpg",
+    "index.html": "/sardarali-portfolio/index.html",
+    "main.07c396e8.css.map": "/sardarali-portfolio/static/css/main.07c396e8.css.map",
+    "main.faa97477.js.map": "/sardarali-portfolio/static/js/main.faa97477.js.map",
+    "453.d25e12da.chunk.js.map": "/sardarali-portfolio/static/js/453.d25e12da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebf220a9.css",
-    "static/js/main.7a30cf93.js"
+    "static/css/main.07c396e8.css",
+    "static/js/main.faa97477.js"
   ]
 }
